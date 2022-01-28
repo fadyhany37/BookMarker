@@ -1,0 +1,26 @@
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+}
+.form{
+  width: 95%!important;
+  background-color: rgb(233, 231, 231);
+}
+.form .form-group {
+  width: 70%!important;
+}
+.result{
+  background-color: rgb(233, 231, 231);
+  width: 95%!important;
+}
+.validRed{
+  width: 70%!important;
+  background-color: rgb(241, 109, 109);
+  border: 1px solid darkred;
+  border-radius: 5px;
+  
+
+
+}
